@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feeds</string>
+    <string name="title_item_detail">Detail</string>
+    <string name="publishedAt">Published At : %s</string>
+    <string name="noFeedsFound">No Feeds Found</string>
+
+</resources>
